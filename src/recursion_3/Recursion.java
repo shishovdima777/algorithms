@@ -5,6 +5,7 @@ public class Recursion {
         System.out.println(findFactorial(3));
         int[] recArr = {1, 2, 3};
         System.out.println(findSum(recArr, recArr.length));
+        FindNum.persistence(999);             // 9 * 9 * 9 until lenth 1
     }
 
     private static int findFactorial(int num) {
