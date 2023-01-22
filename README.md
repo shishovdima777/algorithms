@@ -1,1 +1,1 @@
-Practice of algorithmic problems.
+Practice of solving algorithmic problems.
